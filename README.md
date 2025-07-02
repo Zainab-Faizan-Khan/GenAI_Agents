@@ -8,7 +8,7 @@ It’s built using **LangGraph**, **LangChain**, and **FastAPI**, and integrates
 
 ## 🚀 What It Can Do
 
-- 🧠 **Understands natural language** using OpenAI’s GPT-4 to interpret user queries
+- 🧠 **Understands natural language** using OpenAI’s GPT-3.5-turbo to interpret user queries
 - 🛠️ **Performs CRM actions automatically**, including:
   - Creating a HubSpot contact
   - Updating an existing contact
