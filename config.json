@@ -1,0 +1,8 @@
+{
+  "openai_api_key": "your-openai-key",
+  "hubspot_api_key": "your-hubspot-token",
+  "email_sender": "your-email@example.com",
+  "email_password": "your-email-app-password"
+}
+
+
